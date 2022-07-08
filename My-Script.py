@@ -10,3 +10,5 @@ print(x)
 print ("Hello Again!")
 n = 2022
 print (n)
+
+print ("rock, paper, scissors")
